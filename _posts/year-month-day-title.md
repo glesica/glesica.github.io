@@ -1,4 +1,5 @@
 ---
-jekyll code goes here
+title: title
+layout: post_page
 ---
-Custom code goes here
+content
