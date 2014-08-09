@@ -26,3 +26,9 @@ Windows-compatible tools for developing Python programs.
     names, and more). It also includes IPython Notebook, a browser-based
     interactive computing environment for writing documents that mix prose and
     code.
+  * [bugjar](http://pybee.org/bugjar/) - a nice, cross-platform GUI debugger.
+    Part of the BeeWare suite of applications and libraries that seek to make
+    Python easier for developers.
+  * [toga](http://pybee.org/toga/) - a cross-platform GUI toolkit for creating
+    user interfaces that will work, natively, across multiple platforms (Mac,
+    Windows, Linux).
