@@ -1,4 +1,4 @@
 ---
-paginate: 10
+paginate: 30
 exclude: "README.md"
 markdown: kramdown

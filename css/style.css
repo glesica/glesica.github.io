@@ -19,6 +19,14 @@ ul#entries {
     padding: 0;
 }
 
+ul#entries li {
+    margin-top: 0.5em;
+}
+
+ul#entries li:first-child {
+    margin-top: 0;
+}
+
 ul#entries h3 {
     display: inline;
 }
