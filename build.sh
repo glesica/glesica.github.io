@@ -1,7 +1,22 @@
 #!/bin/sh
 
+set -e
+
 NORMALIZE=normalize.css
 SAKURA=sakura-earthly.css
+CUSTOM=custom.css
+
+# Check for build dependencies
+
+if ! wget --version 2>&1 >/dev/null ; then
+    echo "wget is not installed"
+    exit 1
+fi
+
+if ! pandoc --version 2>&1 >/dev/null ; then
+    echo "pandoc is not installed"
+    exit 1
+fi
 
 # Download CSS
 
@@ -13,6 +28,10 @@ if [ ! -f "$SAKURA" ]; then
     wget "https://raw.githubusercontent.com/oxalorg/sakura/master/css/$SAKURA"
 fi
 
+# Concatenate CSS
+
+cat "$NORMALIZE" "$SAKURA" "$CUSTOM" > styles.css
+
 # Build
 
 _build () {
@@ -21,9 +40,7 @@ _build () {
 
     pandoc \
         -o "$name.html" \
-        -c "$NORMALIZE" \
-        -c "$SAKURA" \
-        -c "custom.css" \
+        -c styles.css \
         -H _head.html \
         -M title:"$title" \
         -M pagetitle:"$title" \
@@ -31,6 +48,8 @@ _build () {
         -T "LESICA.COM" \
         --standalone \
         "$name.md"
+
+    echo "Built $name.html from $name.md"
 }
 
 _build HOME index
