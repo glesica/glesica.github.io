@@ -24,6 +24,7 @@ _build () {
         -c "$NORMALIZE" \
         -c "$SAKURA" \
         -c "custom.css" \
+        -H _head.html \
         -M title:"$title" \
         -M pagetitle:"$title" \
         -M author-meta:"George Lesica" \
