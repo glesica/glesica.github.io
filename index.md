@@ -68,6 +68,8 @@ learning techniques to bioinformatics problems.  In particular, we are working t
 accuracy of DNA and protein sequence alignments. This work has broad potential implications in areas
 as diverse as agriculture, management of viral epidemics, and the treatment of genetic disorders.
 
+![An example model visualization](alignment.jpg)
+
 Much of our code is written by student researchers (undergraduate and graduate) who have relatively
 little experience building "real" software. My job is twofold. First, make sure that the software
 released by the lab is performant, free of serious bugs, and readily usable by the broader
