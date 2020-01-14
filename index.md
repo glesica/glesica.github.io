@@ -34,6 +34,8 @@ between non-profit organizations. We are also involved in an ongoing project to 
 technical literacy of staff at local non-profits through personalized training and consultation
 provided by tech industry volunteers.
 
+![Code for Montana](code-for-montana.jpg)
+
 **Co-author, The Economics of Seinfeld** - A web site that uses clips from the popular '90s sitcom
 "Seinfeld" to teach economics. The site is used widely at the high school and university levels and
 has helped inspire a whole sub-genre of economics teaching tools based on pop culture. Check out
