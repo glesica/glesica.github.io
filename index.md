@@ -2,11 +2,12 @@ The homepage of George Lesica. I'm a resident of Missoula, MT, one of the most r
 the world (in my opinion). I'm a software developer and recovering economist. I enjoy hiking,
 running, riding my bike to work, craft beer, and fancy programming languages.
 
-  - [Blog](http://goto10line.net/)
+  - [Blog](http://goto10line.net)
   - [Email](mailto:george@lesica.com)
   - [GitHub](https://github.com/glesica)
   - [Keybase](https://keybase.io/glesica)
   - [LinkedIn](https://www.linkedin.com/in/george-lesica)
+  - [Instagram](https://www.instagram.com/georgelesica) (New!)
 
 Feel free to reach out via email or LinkedIn if you want to talk. I especially enjoy helping young
 people get started in the software industry. I have acted as a mentor on several occasions and I
