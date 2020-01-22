@@ -5,9 +5,11 @@ running, riding my bike to work, craft beer, and fancy programming languages.
   - [Blog](http://goto10line.net)
   - [Email](mailto:george@lesica.com)
   - [GitHub](https://github.com/glesica)
+  - [Instagram](https://www.instagram.com/georgelesica) (New!)
   - [Keybase](https://keybase.io/glesica)
   - [LinkedIn](https://www.linkedin.com/in/george-lesica)
-  - [Instagram](https://www.instagram.com/georgelesica) (New!)
+
+I also have a page of interesting [quotes](quotes.html) on this web site.
 
 Feel free to reach out via email or LinkedIn if you want to talk. I especially enjoy helping young
 people get started in the software industry. I have acted as a mentor on several occasions and I

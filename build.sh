@@ -53,4 +53,5 @@ _build () {
 }
 
 _build HOME index
+_build QUOTES quotes
 
