@@ -9,7 +9,7 @@ running, riding my bike to work, craft beer, and fancy programming languages.
   - [Keybase](https://keybase.io/glesica)
   - [LinkedIn](https://www.linkedin.com/in/george-lesica)
 
-I also have a page of interesting [quotes](quotes.html) on this web site.
+I also have a page of interesting [quotes](quotes.html). Well, interesting to me, anyway.
 
 Feel free to reach out via email or LinkedIn if you want to talk. I especially enjoy helping young
 people get started in the software industry. I have acted as a mentor on several occasions and I
