@@ -12,6 +12,15 @@ page a bit shorter and easier to update.
 I'm also going to try to keep the software development and computer science quotes to a reasonable
 number, but we'll see how that goes.
 
+  > Man is an animal suspended in webs of significance he himself has spun.
+
+~ Clifford Geertz
+
+  > Debugging is twice as hard as writing the code in the first place. Therefore, if you write the
+  > code as cleverly as possible, you are, by definition, not smart enough to debug it.
+
+~ Brian Kernighan
+
   > I know people, I know towns, farms, hills and rivers and rocks, I know how the sun at sunset in
   > autumn falls on the side of a certain plowland in the hills; but what is the sense of giving a
   > boundary to all that, of giving it a name and ceasing to love where the name ceases to apply?
@@ -19,10 +28,5 @@ number, but we'll see how that goes.
   > simply self-love? That's a good thing, but one mustn't make a virtue of it, or a profession....
 
 ~ Estraven, from The Left Hand of Darkness by Ursula K. Le Guin
-
-  > Debugging is twice as hard as writing the code in the first place. Therefore, if you write the
-  > code as cleverly as possible, you are, by definition, not smart enough to debug it.
-
-~ Brian Kernighan
 
 
