@@ -23,6 +23,17 @@ complete, with which I am proud to be associated.
 
 ## Noteworthy Projects
 
+These are in no particular order and some are ongoing, as you might guess from the descriptions.
+
+**Instructor, Special Topics - Software Testing (Fall 2018)** - I designed a taught a special topics
+course (CSCI 391) on software testing at the University of Montana. The course covered a variety of
+topics, most of which are described in the [online
+notes](https://sites.google.com/view/csci391-software-testing/home), related to software reliability
+and testing, including some less obvious subjects like static analysis and type systems. I used the
+[open source textbook](https://github.com/laboon/ebook) written by Bill Laboon at CMU, along with
+assorted other readings. Currently, I'm planning to deliver an updated, 400-level version of the
+course for spring 2021.
+
 **Co-organizer, Missoula Tech** - A group of tech industry folks in a wide variety of roles from
 across Montana, centered in Missoula, MT. We organize social, educational, and technical events.
 There's also an active Slack workspace. Come check us out at
