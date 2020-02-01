@@ -25,9 +25,9 @@ complete, with which I am proud to be associated.
 
 These are in no particular order and some are ongoing, as you might guess from the descriptions.
 
-**Instructor, Special Topics - Software Testing (Fall 2018)** - I designed a taught a special topics
-course (CSCI 391) on software testing at the University of Montana. The course covered a variety of
-topics, most of which are described in the [online
+**Instructor, Special Topics - Software Testing (Fall 2018)** - I designed and taught a special
+topics course (CSCI 391) on software testing at the University of Montana. The course covered a
+variety of topics, most of which are described in the [online
 notes](https://sites.google.com/view/csci391-software-testing/home), related to software reliability
 and testing, including some less obvious subjects like static analysis and type systems. I used the
 [open source textbook](https://github.com/laboon/ebook) written by Bill Laboon at CMU, along with
