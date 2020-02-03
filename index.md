@@ -44,7 +44,9 @@ There's also an active Slack workspace. Come check us out at
 **Co-founder, Code for Montana** - A chapter of the [Code for
 America](https://www.codeforamerica.org/) organization focused on issues and problems that are
 important to Montanans. Right now we're involved in a project to improve access to, and collaboration
-between non-profit organizations. We are also involved in an ongoing project to improve the
+between non-profit organizations. You can check out the code so far on [GitHub](https://github.com/code-for-montana/nonprofit-data/).
+
+We are also involved in an ongoing project to improve the
 technical literacy of staff at local non-profits through personalized training and consultation
 provided by tech industry volunteers.
 
