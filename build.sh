@@ -42,6 +42,8 @@ _build () {
         -o "$name.html" \
         -c styles.css \
         -H _head.html \
+        -B _menu.html \
+        -A _foot.html \
         -M title:"$title" \
         -M pagetitle:"$title" \
         -M author-meta:"George Lesica" \
@@ -51,6 +53,20 @@ _build () {
 
     echo "Built $name.html from $name.md"
 }
+
+_fragment () {
+    local name="$1"
+
+    pandoc \
+        -o "$name.html" \
+        "$name.md"
+
+    echo "Fragment $name.html from $name.md"
+}
+
+_fragment _head
+_fragment _menu
+_fragment _foot
 
 _build HOME index
 _build QUOTES quotes

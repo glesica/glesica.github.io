@@ -1,5 +1,3 @@
-[Home](index.html)
-
 I'm a fan of interesting things that other people have said. I've collected a few of them below.
 Some are witty, some are wise, and some are funny (for various reasons). I had a web page like this
 back in college and I looked for the files, but alas, they have been lost to the sands of time and
