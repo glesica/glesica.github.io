@@ -1,29 +1,33 @@
-The homepage of George Lesica. I'm a resident of Missoula, MT, one of the most remarkable cities in
-the world (in my opinion). I'm a software developer and recovering economist. I enjoy hiking,
-running, riding my bike to work, craft beer, and fancy programming languages.
+The homepage of George Lesica. I'm a resident of Missoula, MT, one of the most
+remarkable cities in the world (in my opinion). I'm a software developer and
+recovering economist. I enjoy hiking, running, riding my bike to work, craft
+beer, and fancy programming languages.
 
   - [Blog](http://goto10line.net)
   - [Email](mailto:george@lesica.com)
   - [GitHub](https://github.com/glesica)
-  - [Instagram](https://www.instagram.com/georgelesica) (New!)
+  - [Instagram](https://www.instagram.com/georgelesica)
   - [Keybase](https://keybase.io/glesica)
   - [LinkedIn](https://www.linkedin.com/in/george-lesica)
 
-I also have a page of interesting [quotes](quotes.html). Well, interesting to me, anyway.
+I also have a page of interesting [quotes](quotes.html). Well, interesting to
+me, anyway.
 
-Feel free to reach out via email or LinkedIn if you want to talk. I especially enjoy helping young
-people get started in the software industry. I have acted as a mentor on several occasions and I
-devote a significant amount of time to outreach and recruiting. I am also particularly passionate
-about increasing diversity and representation in the computing field.
+Feel free to reach out via email or LinkedIn if you want to talk. I especially
+enjoy helping young people get started in the software industry. I have acted as
+a mentor on several occasions and I devote a significant amount of time to
+outreach and recruiting. I am also particularly passionate about increasing
+diversity and representation in the computing field.
 
 ![Self portrait looking quizzical](headshot.jpg)
 
-Below you'll find an outline of some of the things that make me "tick". Projects, either ongoing or
-complete, with which I am proud to be associated.
+Below you'll find an outline of some of the things that make me "tick".
+Projects, either ongoing or complete, with which I am proud to be associated.
 
 ## Noteworthy Projects
 
-These are in no particular order and some are ongoing, as you might guess from the descriptions.
+These are in no particular order and some are ongoing, as you might guess from
+the descriptions.
 
 **Instructor, Special Topics - Software Testing (Fall 2018)** - I designed and taught a special
 topics course (CSCI 391) on software testing at the University of Montana. The course covered a
@@ -78,20 +82,29 @@ forked and improved by others. I also wrote a tool called
 [DCDG](https://github.com/glesica/dcdg.dart) that will automatically generate a class diagram from
 Dart source code.
 
+## Files and Such
+
+[Software Quality Talk](files/software-quality-talk-spring-2020.pdf) - a talk I
+gave to the spring 2020 senior capstone class about some of the techniques we
+can use to make software less terrible.
+
 ## Day Job
 
-At the moment, I'm employed as a Senior Software Engineer for [Wheeler Lab](http://wheelerlab.org)
-at the [University of Montana](http://www.umt.edu). Most of our work involves applying machine
-learning techniques to bioinformatics problems.  In particular, we are working to improve the
-accuracy of DNA and protein sequence alignments. This work has broad potential implications in areas
-as diverse as agriculture, management of viral epidemics, and the treatment of genetic disorders.
+At the moment, I'm employed as a Senior Software Engineer for [Wheeler
+Lab](http://wheelerlab.org) at the [University of Montana](http://www.umt.edu).
+Most of our work involves applying machine learning techniques to bioinformatics
+problems.  In particular, we are working to improve the accuracy of DNA and
+protein sequence alignments. This work has broad potential implications in areas
+as diverse as agriculture, management of viral epidemics, and the treatment of
+genetic disorders.
 
 ![An example model visualization](alignment.jpg)
 
-Much of our code is written by student researchers (undergraduate and graduate) who have relatively
-little experience building "real" software. My job is twofold. First, make sure that the software
-released by the lab is performant, free of serious bugs, and readily usable by the broader
-scientific community.  Second, help ensure that our students achieve their educational, research,
-and professional goals and (hopefully) learn a little (or a lot) about software development in the
-process.
+Much of our code is written by student researchers (undergraduate and graduate)
+who have relatively little experience building "real" software. My job is
+twofold. First, make sure that the software released by the lab is performant,
+free of serious bugs, and readily usable by the broader scientific community.
+Second, help ensure that our students achieve their educational, research, and
+professional goals and (hopefully) learn a little (or a lot) about software
+development in the process.
 
