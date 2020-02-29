@@ -50,6 +50,10 @@ America](https://www.codeforamerica.org/) organization focused on issues and pro
 important to Montanans. Right now we're involved in a project to improve access to, and collaboration
 between non-profit organizations. You can check out the code so far on [GitHub](https://github.com/code-for-montana/nonprofit-data/).
 
+The system to extract and filter IRS data is called PyRS990 (get it?). It has
+now been packaged and can be found on PyPI, although is should still be
+considered alpha software: [PyRS990](https://pypi.org/project/pyrs990/).
+
 We are also involved in an ongoing project to improve the
 technical literacy of staff at local non-profits through personalized training and consultation
 provided by tech industry volunteers.
