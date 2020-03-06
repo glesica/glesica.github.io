@@ -2,18 +2,10 @@
                             
 Your title: George Lesica
 Site: george@lesica.com
-Twitter: @glesica
 Location: Missoula, MT
-
-
-/* THANKS */
-
-HTML5 Muffin
-This is a Frappuccino Blog
 
                             
 /* SITE */
                           
 Standards: HTML5, CSS3
 Components: Github Pages
-Software: Jekyll
