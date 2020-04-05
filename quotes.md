@@ -12,6 +12,21 @@ update.
 I'm also going to try to keep the software development and computer science
 quotes to a reasonable number, but we'll see how that goes.
 
+  > "Is there a peculiar flavour in what you sprinkle from your torch?"
+    asked Scrooge.
+  >
+  > "There is. My own."
+  >
+  > "Would it apply to any kind of dinner on this day?" asked Scrooge.
+  >
+  > "To any kindly given. To a poor one most."
+  >
+  > "Why to a poor one most?" asked Scrooge.
+  >
+  > "Because it needs it most."
+
+~ Charles Dickens, A Christmas Carol
+
   > Man is an animal suspended in webs of significance he himself has spun.
 
 ~ Clifford Geertz
