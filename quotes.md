@@ -12,6 +12,11 @@ update.
 I'm also going to try to keep the software development and computer science
 quotes to a reasonable number, but we'll see how that goes.
 
+  > "Programs must be written for people to read, and only incidentally
+  > for machines to execute."
+
+~ Harold Abelson
+
   > "Is there a peculiar flavour in what you sprinkle from your torch?"
     asked Scrooge.
   >
