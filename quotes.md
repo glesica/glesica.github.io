@@ -36,6 +36,10 @@ quotes to a reasonable number, but we'll see how that goes.
 
 ~ Clifford Geertz
 
+  > When a measure becomes a target, it ceases to be a good measure.
+
+~ Charles Goodhart
+
   > Debugging is twice as hard as writing the code in the first place.
   > Therefore, if you write the code as cleverly as possible, you are, by
   > definition, not smart enough to debug it.
