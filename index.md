@@ -19,7 +19,7 @@ a mentor on several occasions and I devote a significant amount of time to
 outreach and recruiting. I am also particularly passionate about increasing
 diversity and representation in the computing field.
 
-![Self portrait looking quizzical](headshot.jpg)
+![Atop Stuart Peak with a doggo friend of mine](george-and-maple.jpg)
 
 Below you'll find an outline of some of the things that make me "tick".
 Projects, either ongoing or complete, with which I am proud to be associated.
