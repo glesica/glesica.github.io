@@ -29,6 +29,16 @@ Projects, either ongoing or complete, with which I am proud to be associated.
 These are in no particular order and some are ongoing, as you might guess from
 the descriptions.
 
+**Founder and Principal, Georgica Software, LLC** - I periodically take on
+consulting projects. If you'd like to discuss a project, take a look at my
+[business web site](https://georgica.io) or just send me an
+[email](mailto:george@lesica.com).
+
+**Pro bono Technology Advisor, Tamarack Grief Resource Center** - I provide
+advice and periodic assistance with technology issues for
+[TGRC](https://tamarackgrc.org), a non-profit devoted to helping people cope
+with tragic loss.
+
 **Instructor, Special Topics - Software Testing (Fall 2018)** - I designed and taught a special
 topics course (CSCI 391) on software testing at the University of Montana. The course covered a
 variety of topics, most of which are described in the [online
