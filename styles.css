@@ -628,6 +628,10 @@ html {
     font-family: sans-serif;
 }
 
+body {
+    max-width: 65ch;
+}
+
 figure {
     text-align: center;
 }
