@@ -36,6 +36,10 @@ quotes to a reasonable number, but we'll see how that goes.
 
 ~ Clifford Geertz
 
+  > We look at the world once, in childhood. The rest is memory.
+
+~ Louise Glück, Nobel Literature Laureate
+
   > When a measure becomes a target, it ceases to be a good measure.
 
 ~ Charles Goodhart
