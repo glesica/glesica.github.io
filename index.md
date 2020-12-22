@@ -13,7 +13,7 @@ beer, and fancy programming languages.
 I also have a page of interesting [quotes](quotes.html). Well, interesting to
 me, anyway.
 
-![Hiking with Maple the dog](maple-selfie.jpg)
+![Reclining with a cold beer](george-recline.jpg)
 
 Feel free to reach out via email or LinkedIn if you want to talk. I especially
 enjoy helping young people get started in the software industry. I have acted as
@@ -21,7 +21,7 @@ a mentor on several occasions and I devote a significant amount of time to
 outreach and recruiting. I am also particularly passionate about increasing
 diversity and representation in the computing field.
 
-![Atop Stuart Peak with a doggo friend of mine](george-and-maple.jpg)
+![Trying to figure out why Great Falls is so windy](george-sitting.jpg)
 
 Below you'll find an outline of some of the things that make me "tick".
 Projects, either ongoing or complete, with which I am proud to be associated.
