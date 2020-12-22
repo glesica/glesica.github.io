@@ -1,3 +1,5 @@
+![Missoula at sunset in the winter](missoula-pano.jpg)
+
 The homepage of George Lesica. I'm a resident of Missoula, MT, one of the most
 remarkable cities in the world (in my opinion). I'm a software developer and
 recovering economist. I enjoy hiking, running, riding my bike to work, craft
