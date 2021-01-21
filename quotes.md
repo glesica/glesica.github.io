@@ -40,7 +40,7 @@ quotes to a reasonable number, but we'll see how that goes.
   > being American is more than a pride we inherit, it’s the past we step into
   > and how we repair it.
   
-~ Amanda Gorman, The Hill We Climb
+~ Amanda Gorman, from The Hill We Climb
 
   > We look at the world once, in childhood. The rest is memory.
 
