@@ -36,6 +36,12 @@ quotes to a reasonable number, but we'll see how that goes.
 
 ~ Clifford Geertz
 
+  > That is the promise to glade, the hill we climb if only we dare it because
+  > being American is more than a pride we inherit, it’s the past we step into
+  > and how we repair it.
+  
+~ Amanda Gorman, The Hill We Climb
+
   > We look at the world once, in childhood. The rest is memory.
 
 ~ Louise Glück, Nobel Literature Laureate
