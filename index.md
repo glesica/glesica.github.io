@@ -54,6 +54,14 @@ textbook](https://github.com/laboon/ebook) written by Bill Laboon at CMU, along
 with assorted other readings. Currently, I'm planning to deliver an updated,
 400-level version of the course for spring 2021.
 
+**Instructor, Special Topics - The Missing Course (Spring 2021)** - With help
+and inspiration from others, both here at UM and the original course in this
+mini-genre ([The Missing Semester](http://missing.csail.mit.edu)), I taught a
+course on tools and all sorts of other fun topics that are often neglected in
+computer science curricula. The [course web site](://lesica.com/missing-course)
+can be found elsewhere on this domain. It contains some original material along
+with links to existing content.
+
 **Co-organizer, Missoula Tech** - A group of tech industry folks in a wide
 variety of roles from across Montana, centered in Missoula, MT. We organize
 social, educational, and technical events.  There's also an active Slack
