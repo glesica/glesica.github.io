@@ -127,6 +127,9 @@ on [PyPI](https://pypi.org/project/xldiff/) and the code is on
 
 ## Files and Such
 
+[Releasing Software](releasing-software.pdf) - a talk I gave to the students in
+our lab about making software easy for people to use.
+
 [Software Quality Talk](files/software-quality-talk-spring-2020.pdf) - a talk I
 gave to the spring 2020 senior capstone class about some of the techniques we
 can use to make software less terrible.
