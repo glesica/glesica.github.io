@@ -33,6 +33,11 @@ Projects, either ongoing or complete, with which I am proud to be associated.
 These are in no particular order and some are ongoing, as you might guess from
 the descriptions.
 
+**Instructor, Montana Code School** - I teach the
+[Montana Code School](https://www.montanacodeschool.com) backend
+development track. I enjoy the opportunity to help students get started on a new
+career in the software industry, and it's just a lot of fun.
+
 **Founder and Principal, Georgica Software, LLC** - I periodically take on
 consulting projects. If you'd like to discuss a project, take a look at my
 [business web site](https://georgica.io) or just send me an
