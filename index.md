@@ -132,7 +132,11 @@ on [PyPI](https://pypi.org/project/xldiff/) and the code is on
 
 ## Files and Such
 
-[Releasing Software](releasing-software.pdf) - a talk I gave to the students in
+[Documenting Software](files/documenting-software.pdf) - a talk I gave to the
+students in our lab about how to produce effective documentation (and thereby,
+effective software).
+
+[Releasing Software](files/releasing-software.pdf) - a talk I gave to the students in
 our lab about making software easy for people to use.
 
 [Software Quality Talk](files/software-quality-talk-spring-2020.pdf) - a talk I
