@@ -46,7 +46,7 @@ consulting projects. If you'd like to discuss a project, take a look at my
 **Pro bono Technology Advisor, Tamarack Grief Resource Center** - I provide
 advice and periodic assistance with technology issues for
 [TGRC](https://tamarackgrc.org), a non-profit devoted to helping people cope
-with tragic loss.
+with tragic loss. Received the 2021 "Volunteer of the Year" award.
 
 **Instructor, Special Topics - Software Testing (Fall 2018)** - I designed and
 taught a special topics course (CSCI 391) on software testing at the University
