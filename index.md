@@ -122,13 +122,20 @@ has since been forked and improved by others. I also wrote a tool called
 [DCDG](https://github.com/glesica/dcdg.dart) that will automatically generate a
 class diagram from Dart source code.
 
+**Projected Hope** - I have collaborated with
+[Project Tomorrow Montana](http://projecttomorrowmt.org) on a public art
+installation called [Projected Hope](https://projectedhope.org) that is
+periodically displayed in downtown Missoula to raise awareness of suicide
+prevention resources.
+
 ## Various Projects
 
-**XL Diff** - a super simple tool that allows the user to check whether datasets
-in two Excel files are different or not. Useful for checking whether a data
-export has changed or an update has been made to a shared file. It can be found
-on [PyPI](https://pypi.org/project/xldiff/) and the code is on
-[GitHub](https://github.com/glesica/xldiff).
+**DCDG** - a tool that can generate a class diagram from a Dart source code
+package. [GitHub](https://github.com/glesica/dcdg.dart)
+
+**Mt. Data** - a tool for collecting and storing open source data. It provides a
+simple API that allows anyone with basic knowledge of the Python programming
+language to harvest new datasets. [GitHub](https://github.com/glesica/mtdata)
 
 ## Files and Such
 
