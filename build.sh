@@ -70,4 +70,5 @@ _fragment _foot
 
 _build HOME index
 _build QUOTES quotes
+_build COMPUTERS computers
 
