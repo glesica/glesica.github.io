@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    max-width: 65ch;
+    max-width: 65.0rem;
 }
 
 figure {
@@ -18,19 +18,18 @@ figure > figcaption {
     font-style: italic;
 }
 
-/* COMPUTERS */
+/* COMPUTERS: Mobile (default) */
 
 .exhibit {
-    position: relative;
     background-color: white;
     border: 2.0rem solid white;
     border-radius: 0.25rem;
-    box-shadow: 0.4rem 0.4rem 1.6rem rgba(0, 0, 0, 0.25);
+    box-shadow: 0.3rem 0.3rem 1.2rem rgba(0, 0, 0, 0.3);
     box-sizing: border-box;
     margin-bottom: 3.0rem;
 }
 
-.exhibit img {
+.exhibit > img {
     border-radius: 0.25rem;
     display: block;
 }
@@ -48,33 +47,45 @@ figure > figcaption {
     color: orangered;
 }
 
-.exhibit .overlay {
-    bottom: 0;
-    left: 0;
-    right: 0;
-    top: 0;
-
-    opacity: 0.0;
-    position: absolute;
-
-    transition-property: opacity;
-    transition-duration: 1s;
-}
-
-.exhibit .overlay:hover {
-    opacity: 1.0;
-}
-
 .exhibit .caption {
-    background-color: rgba(255, 255, 255, 0.75);
-    border-radius: 0.25rem;
     color: #333;
-    margin: 2.0rem;
-    padding: 1.5rem 2.0rem;
-    position: absolute;
-
-    bottom: 0;
-    left: 0;
-    right: 0;
+    margin: 0;
+    padding: 2.0rem 0 0 0;
 }
 
+/* COMPUTERS: Desktop */
+
+@media (min-width: 65.0rem) {
+    .exhibit {
+        position: relative;
+    }
+
+    .exhibit .overlay {
+        bottom: 0;
+        left: 0;
+        right: 0;
+        top: 0;
+
+        opacity: 0.0;
+        position: absolute;
+
+        transition-property: opacity;
+        transition-duration: 1s;
+    }
+
+    .exhibit .overlay:hover {
+        opacity: 1.0;
+    }
+
+    .exhibit .caption {
+        background-color: rgba(255, 255, 255, 0.75);
+        border-radius: 0.25rem;
+        margin: 2.0rem;
+        padding: 1.5rem 2.0rem;
+        position: absolute;
+
+        bottom: 0;
+        left: 0;
+        right: 0;
+    }
+}
