@@ -66,9 +66,9 @@ quotes to a reasonable number, but we'll see how that goes.
 
 ~ Estraven, from The Left Hand of Darkness by Ursula K. Le Guin
 
-  > My candle burns at both ends;
-  > It will not last the night;
-  > But ah, my foes, and oh, my friends-
+  > My candle burns at both ends;<br>
+  > It will not last the night;<br>
+  > But ah, my foes, and oh, my friends—<br>
   > It gives a lovely light!
 
 ~ First Fig, by Edna St. Vincent Millay
