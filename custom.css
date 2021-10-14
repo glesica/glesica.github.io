@@ -44,7 +44,7 @@ figure > figcaption {
 }
 
 .exhibit a:hover {
-    color: orangered;
+    color: blueviolet;
 }
 
 .exhibit .caption {
@@ -78,7 +78,7 @@ figure > figcaption {
     }
 
     .exhibit .caption {
-        background-color: rgba(255, 255, 255, 0.75);
+        background-color: rgba(255, 255, 255, 0.85);
         border-radius: 0.25rem;
         margin: 2.0rem;
         padding: 1.5rem 2.0rem;
