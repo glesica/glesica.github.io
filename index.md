@@ -1,9 +1,9 @@
 ![Missoula at sunset in the winter](missoula-pano.jpg)
 
 The homepage of George Lesica. I'm a resident of Missoula, MT, one of the most
-remarkable cities in the world (in my opinion). I'm a software developer and
-recovering economist. I enjoy hiking, running, riding my bike to work, craft
-beer, and fancy programming languages.
+remarkable cities in the world. I'm a software developer and recovering
+economist. I enjoy hiking, running, riding my bike to work, craft beer, and
+fancy programming languages.
 
   - [Blog](http://goto10line.net)
   - [Email](mailto:george@lesica.com)
@@ -15,15 +15,18 @@ beer, and fancy programming languages.
 I also have a page of interesting [quotes](quotes.html). Well, interesting to
 me, anyway.
 
-![Reclining with a cold beer](george-recline.jpg)
+Also, I finally got around to putting my collection of old / vintage / retro
+[computers](computers.html) and computing hardware online!
+
+![Trying to keep warm on a mountain](cold-lookout.jpg)
 
 Feel free to reach out via email or LinkedIn if you want to talk. I especially
 enjoy helping young people get started in the software industry. I have acted as
-a mentor on several occasions and I devote a significant amount of time to
-outreach and recruiting. I am also particularly passionate about increasing
+a mentor on several occasions and I have devoted a significant amount of time to
+outreach in the past. I am also particularly passionate about increasing
 diversity and representation in the computing field.
 
-![Trying to figure out why Great Falls is so windy](george-sitting.jpg)
+![After a trail race](post-run-face.jpg)
 
 Below you'll find an outline of some of the things that make me "tick".
 Projects, either ongoing or complete, with which I am proud to be associated.
@@ -46,16 +49,16 @@ consulting projects. If you'd like to discuss a project, take a look at my
 **Pro bono Technology Advisor, Tamarack Grief Resource Center** - I provide
 advice and periodic assistance with technology issues for
 [TGRC](https://tamarackgrc.org), a non-profit devoted to helping people cope
-with tragic loss. Received the 2021 "Volunteer of the Year" award.
+with tragic loss. I received the 2021 "Volunteer of the Year" award.
 
 **Instructor, Special Topics - Software Testing (Fall 2018)** - I designed and
 taught a special topics course (CSCI 391) on software testing at the University
 of Montana. The course covered a variety of topics, most of which are described
-in the [online
-notes](https://sites.google.com/view/csci391-software-testing/home), related to
+in the online
+[notes](https://sites.google.com/view/csci391-software-testing/home), related to
 software reliability and testing, including some less obvious subjects like
-static analysis and type systems. I used the [open source
-textbook](https://github.com/laboon/ebook) written by Bill Laboon at CMU, along
+static analysis and type systems. I used the open source
+[textbook](https://github.com/laboon/ebook) written by Bill Laboon at CMU, along
 with assorted other readings. Currently, I'm planning to deliver an updated,
 400-level version of the course for spring 2021.
 
@@ -63,7 +66,7 @@ with assorted other readings. Currently, I'm planning to deliver an updated,
 and inspiration from others, both here at UM and the original course in this
 mini-genre ([The Missing Semester](http://missing.csail.mit.edu)), I taught a
 course on tools and all sorts of other fun topics that are often neglected in
-computer science curricula. The [course web site](//lesica.com/missing-course)
+computer science curricula. The course [website](//lesica.com/missing-course)
 can be found elsewhere on this domain. It contains some original material along
 with links to existing content.
 
@@ -75,16 +78,17 @@ workspace. Come check us out at
 
 ![A Missoula Tech meetup](missoula-tech.jpg)
 
-**Co-founder, Code for Montana** - A chapter of the [Code for
-America](https://www.codeforamerica.org/) organization focused on issues and
-problems that are important to Montanans. Right now we're involved in a project
-to improve access to, and collaboration between non-profit organizations. You
-can check out the code so far on
-[GitHub](https://github.com/code-for-montana/nonprofit-data/).
+**Co-founder, Code for Montana** - A chapter of the
+[Code for America](https://www.codeforamerica.org/) organization focused
+on issues and problems that are important to Montanans.
 
-The system to extract and filter IRS data is called PyRS990 (get it?). It has
-now been packaged and can be found on PyPI, although is should still be
+We created a system to extract and filter IRS data is called PyRS990 (get it?).
+It has now been packaged and can be found on PyPI, although is should still be
 considered alpha software: [PyRS990](https://pypi.org/project/pyrs990/).
+
+There is also a project to make it easier for journalists and others with a
+small amount of both time and programming ability to collect public datasets
+from the internet, called [Mt. Data](https://github.com/glesica/mtdata).
 
 We are also involved in an ongoing project to improve the technical literacy of
 staff at local non-profits through personalized training and consultation
@@ -169,4 +173,3 @@ free of serious bugs, and readily usable by the broader scientific community.
 Second, help ensure that our students achieve their educational, research, and
 professional goals and (hopefully) learn a little (or a lot) about software
 development in the process.
-

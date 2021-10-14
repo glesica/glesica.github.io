@@ -1,3 +1,3 @@
 <hr/>
-<p style="text-align: center;"><small>A George Lesica joint</small></p>
+<p style="text-align: center;"><small><strong>A George Lesica Joint</strong></small></p>
 
