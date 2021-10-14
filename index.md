@@ -15,6 +15,9 @@ beer, and fancy programming languages.
 I also have a page of interesting [quotes](quotes.html). Well, interesting to
 me, anyway.
 
+Also, I finally got around to putting my collection of old / vintage / retro
+[computers](computers.html) and computing hardware online!
+
 ![Reclining with a cold beer](george-recline.jpg)
 
 Feel free to reach out via email or LinkedIn if you want to talk. I especially
