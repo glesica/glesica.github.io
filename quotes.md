@@ -71,7 +71,7 @@ quotes to a reasonable number, but we'll see how that goes.
   > But ah, my foes, and oh, my friends—<br>
   > It gives a lovely light!
 
-~ First Fig, by Edna St. Vincent Millay
+~ Edna St. Vincent Millay, First Fig
 
   > "Your team’s strength is not a function of the talent of individual members.
   > It’s a function of their collaboration, tenacity, and mutual respect."
