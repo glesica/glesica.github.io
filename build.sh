@@ -32,6 +32,13 @@ fi
 
 cat "$NORMALIZE" "$SAKURA" "$CUSTOM" > styles.css
 
+# Build TypeScript
+
+for ts in *.ts; do
+    tsc --target es2015 "$ts"
+    echo "Compiled $ts"
+done
+
 # Build
 
 _build () {
