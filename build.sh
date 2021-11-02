@@ -32,6 +32,13 @@ fi
 
 cat "$NORMALIZE" "$SAKURA" "$CUSTOM" > styles.css
 
+# Build TypeScript
+
+for ts in *.ts; do
+    tsc --target es2015 "$ts"
+    echo "Compiled $ts"
+done
+
 # Build
 
 _build () {
@@ -70,4 +77,5 @@ _fragment _foot
 
 _build HOME index
 _build QUOTES quotes
+_build COMPUTERS computers
 

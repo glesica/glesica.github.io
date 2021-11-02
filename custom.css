@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    max-width: 65ch;
+    max-width: 65.0rem;
 }
 
 figure {
@@ -21,3 +21,78 @@ figure > figcaption {
 li {
     margin-bottom: 0;
 }
+
+/* COMPUTERS: Mobile (default) */
+
+.hidden {
+    display: none;
+}
+
+.exhibit {
+    background-color: white;
+    border: 2.0rem solid white;
+    border-radius: 0.25rem;
+    box-shadow: 0.3rem 0.3rem 1.2rem rgba(0, 0, 0, 0.3);
+    box-sizing: border-box;
+    margin-bottom: 3.0rem;
+}
+
+.exhibit > img {
+    border-radius: 0.25rem;
+    display: block;
+}
+
+.exhibit a {
+    border: none;
+    color: rgb(74, 74, 74);
+    text-decoration: underline;
+
+    transition-property: color;
+    transition-duration: 0.5s;
+}
+
+.exhibit a:hover {
+    color: #338618;
+}
+
+.exhibit .caption {
+    color: rgb(74, 74, 74);
+    margin: 0;
+    padding: 2.0rem 0 0 0;
+}
+
+.exhibit .caption p {
+    text-align: justify;
+}
+
+.exhibit .caption p:first-of-type {
+    margin-top: 0;
+}
+
+.exhibit .caption p:last-of-type {
+    margin-bottom: 0;
+}
+
+.exhibit .tag {
+    background-color: rgb(221, 221, 221);
+    border-radius: 0.25rem;
+    color: rgb(74, 74, 74);
+    display: inline-block;
+    font-size: 1.5rem;
+    margin: 0 0 0.75rem 0;
+
+    transition-property: background-color;
+    transition-duration: 0.5s;
+}
+
+.exhibit .clickable.tag:hover, .clickable.selected.tag {
+    background-color: rgba(51, 134, 24, 0.50);
+}
+
+.exhibit .tag a {
+    color: rgb(74, 74, 74);
+    display: inline-block;
+    padding: 0.25rem 1.0rem;
+    text-decoration: none;
+}
+

@@ -17,6 +17,9 @@ me, anyway.
 
 ![Trying to keep warm on a mountain](cold-lookout.jpg)
 
+Also, I finally got around to putting my collection of old / vintage / retro
+[computers](computers.html) and computing hardware online!
+
 Feel free to reach out via email or LinkedIn if you want to talk. I especially
 enjoy helping young people get started in the software industry. I have acted as
 a mentor on several occasions and I have devoted a significant amount of time to
@@ -170,3 +173,4 @@ free of serious bugs, and readily usable by the broader scientific community.
 Second, help ensure that our students achieve their educational, research, and
 professional goals and (hopefully) learn a little (or a lot) about software
 development in the process.
+
