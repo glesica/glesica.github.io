@@ -20,6 +20,7 @@ Description of 00
 </div>
 -->
 
+<!--
 <div class="exhibit">
 <img src="files/computers/commodore-64.jpg">
 <div class="caption">
@@ -42,9 +43,10 @@ part in shaping the modern computing industry.
 [Wikipedia](https://en.wikipedia.org/wiki/Commodore_64)
 </div>
 </div>
+-->
 
 <div class="exhibit">
-<img src="files/computers/powerbook-duo.jpg">
+<img src="files/computers/powerbook-duo-280-0.jpg">
 <div class="caption">
 <div class="tag-box">
 <div class="tag">1992</div>
@@ -54,7 +56,7 @@ part in shaping the modern computing industry.
 <div class="tag">Laptop</div>
 <div class="tag">1990s</div>
 </div>
-## PowerBook Duo
+## PowerBook Duo 280
 
 The most interesting thing about the Duo, to me, is the Duo Dock, a beastly
 docking station that accepted the entire (closed) laptop like a disk drive.  The
@@ -67,7 +69,7 @@ of the laptop, such as a floating point unit and additional video memory.
 </div>
 
 <div class="exhibit">
-<img src="files/computers/imac-g4.jpg">
+<img src="files/computers/imac-g4-0.jpg">
 <div class="caption">
 <div class="tag-box">
 <div class="tag">2002</div>
@@ -93,7 +95,7 @@ know of.
 </div>
 
 <div class="exhibit">
-<img src="files/computers/ipad-1.jpg">
+<img src="files/computers/ipad-1-0.jpg">
 <div class="caption">
 <div class="tag-box">
 <div class="tag">2010</div>
