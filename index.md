@@ -143,6 +143,10 @@ language to harvest new datasets. [GitHub](https://github.com/glesica/mtdata)
 
 ## Files and Such
 
+[Commander Tutorial](files/commander-tutorial.pdf) - a talk I gave on the
+[Commander](https://github.com/commander-cli/commander) functional testing
+tool.
+
 [Documenting Software](files/documenting-software.pdf) - a talk I gave to the
 students in our lab about how to produce effective documentation (and thereby,
 effective software).
