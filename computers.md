@@ -95,6 +95,28 @@ know of.
 </div>
 
 <div class="exhibit">
+<img src="files/computers/powerbook-g4-0.jpg">
+<div class="caption">
+<div class="tag-box">
+<div class="tag">2003</div>
+<div class="tag">Apple</div>
+<div class="tag">PowerBook</div>
+<div class="tag">Mac</div>
+<div class="tag">Laptop</div>
+<div class="tag">2000s</div>
+</div>
+## PowerBook G4 (Aluminum)
+
+The 12" model that I own is one of my favorite laptop designs. It always felt
+efficient, given that the keyboard went from edge-to-edge. I also liked the
+small size, it felt truly portable compared to many of its contemporaries. In
+many ways, at least in my mind, this was the first truly modern laptop.
+
+[Wikipedia](https://en.wikipedia.org/wiki/PowerBook_G4)
+</div>
+</div>
+
+<div class="exhibit">
 <img src="files/computers/ipad-1-0.jpg">
 <div class="caption">
 <div class="tag-box">
