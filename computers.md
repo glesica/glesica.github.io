@@ -69,7 +69,7 @@ of the laptop, such as a floating point unit and additional video memory.
 </div>
 
 <div class="exhibit">
-<img src="files/computers/newton-0.jpg">
+<img src="files/computers/newton-120-0.jpg">
 <div class="caption">
 <div class="tag-box">
 <div class="tag">1993</div>
@@ -79,7 +79,7 @@ of the laptop, such as a floating point unit and additional video memory.
 <div class="tag">PDA</div>
 <div class="tag">1990s</div>
 </div>
-## Apple Newton MessagePad
+## Apple Newton MessagePad 120
 
 The Newton predicted Apple's future as a mobile device powerhouse.
 Unfortunately for Apple, the device was too expensive to be widely adopted.
