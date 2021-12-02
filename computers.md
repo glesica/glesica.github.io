@@ -69,6 +69,35 @@ of the laptop, such as a floating point unit and additional video memory.
 </div>
 
 <div class="exhibit">
+<img src="files/computers/newton-0.jpg">
+<div class="caption">
+<div class="tag-box">
+<div class="tag">1993</div>
+<div class="tag">Apple</div>
+<div class="tag">Newton</div>
+<div class="tag">Mobile</div>
+<div class="tag">PDA</div>
+<div class="tag">1990s</div>
+</div>
+## Apple Newton MessagePad
+
+The Newton predicted Apple's future as a mobile device powerhouse.
+Unfortunately for Apple, the device was too expensive to be widely adopted.
+There were also problems with the handwriting recognition, its signature
+feature. Additionally, in many ways, the world just wasn't ready for advanced
+mobile devices. The Personal Digital Assistant (PDA) category found some
+success, but it wasn't until cellular internet access became widespread that
+mobile devices really took off.
+
+One interesting tidbit, the Newton used a CPU designed by Advanced RISC
+Machines Ltd., a company that would later rename itself Arm Ltd. and provide the
+underlying architecture for the processors inside the iPhone and the new M1 CPU.
+
+[Wikipedia](https://en.wikipedia.org/wiki/Apple_Newton)
+</div>
+</div>
+
+<div class="exhibit">
 <img src="files/computers/imac-g4-0.jpg">
 <div class="caption">
 <div class="tag-box">
