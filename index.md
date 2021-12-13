@@ -143,6 +143,9 @@ language to harvest new datasets. [GitHub](https://github.com/glesica/mtdata)
 
 ## Files and Such
 
+[Continuous Integration Talk](files/continuous-integration-fa-2021.pdf) - a talk
+on continuous integration I gave to the students in our lab.
+
 [Commander Tutorial](files/commander-tutorial.pdf) - a talk I gave on the
 [Commander](https://github.com/commander-cli/commander) functional testing
 tool.
@@ -157,9 +160,6 @@ our lab about making software easy for people to use.
 [Software Quality Talk](files/software-quality-talk-spring-2020.pdf) - a talk I
 gave to the spring 2020 senior capstone class about some of the techniques we
 can use to make software less terrible.
-
-[Continuous Integration Talk](files/continuous-integration-fa-2021.pdf) - a talk
-on continuous integration I gave to the students in our lab.
 
 ## Day Job
 
