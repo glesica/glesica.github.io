@@ -158,6 +158,9 @@ our lab about making software easy for people to use.
 gave to the spring 2020 senior capstone class about some of the techniques we
 can use to make software less terrible.
 
+[Continuous Integration Talk](files/continuous-integration-fa-2021.pdf) - a talk
+on continuous integration I gave to the students in our lab.
+
 ## Day Job
 
 At the moment, I'm employed as a Senior Software Engineer for [Wheeler
