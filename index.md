@@ -36,7 +36,16 @@ Projects, either ongoing or complete, with which I am proud to be associated.
 These are in no particular order and some are ongoing, as you might guess from
 the descriptions.
 
-**Instructor, Montana Code School** - I teach the
+**Drug Sniffer** - As part of my day job, I helped build a "virtual screening"
+application called [Drug Sniffer](https://drugsniffer.org). The software aims to
+help drug researchers develop vaccines and medications more quickly by
+identifying promising chemical compounds in a matter of hours rather than
+months, as has been the case in the past.
+
+**PolyA** - A [tool](https://polya.readthedocs.io) I helped develop to improve
+the reliability of biological sequence annotation.
+
+**Instructor, Montana Code School** - I have taught the
 [Montana Code School](https://www.montanacodeschool.com) backend
 development track. I enjoy the opportunity to help students get started on a new
 career in the software industry, and it's just a lot of fun.
