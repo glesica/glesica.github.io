@@ -1,0 +1,19 @@
+img.logo {
+    display: block;
+    margin-top: 2.0rem;
+    width: 6.0rem;
+}
+
+#screenshots {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+#screenshots > * {
+    width: 20%;
+}
+
+#screenshots img {
+    width: 100%;
+}
