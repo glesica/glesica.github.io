@@ -146,9 +146,7 @@ prevention resources.
 **DCDG** - a tool that can generate a class diagram from a Dart source code
 package. [GitHub](https://github.com/glesica/dcdg.dart)
 
-**Mt. Data** - a tool for collecting and storing open source data. It provides a
-simple API that allows anyone with basic knowledge of the Python programming
-language to harvest new datasets. [GitHub](https://github.com/glesica/mtdata)
+**121 Cribbage** - a simple Cribbage board app for iOS. [App Store](https://apps.apple.com/us/app/121-cribbage/id1630557107)
 
 ## Files and Such
 
