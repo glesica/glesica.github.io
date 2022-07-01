@@ -155,21 +155,7 @@ can use to make software less terrible.
 
 ## Day Job
 
-At the moment, I'm employed as a Senior Software Engineer for [Wheeler
-Lab](http://wheelerlab.org) at the [University of Montana](http://www.umt.edu).
-Most of our work involves applying machine learning techniques to bioinformatics
-problems.  In particular, we are working to improve the accuracy of DNA and
-protein sequence alignments. This work has broad potential implications in areas
-as diverse as agriculture, management of viral epidemics, and the treatment of
-genetic disorders.
-
-![An example model visualization](alignment.jpg)
-
-Much of our code is written by student researchers (undergraduate and graduate)
-who have relatively little experience building "real" software. My job is
-twofold. First, make sure that the software released by the lab is performant,
-free of serious bugs, and readily usable by the broader scientific community.
-Second, help ensure that our students achieve their educational, research, and
-professional goals and (hopefully) learn a little (or a lot) about software
-development in the process.
+I work as a backend developer for onXmaps Inc., a software company based in
+Missoula, MT that makes mapping and navigation tools for outdoor activities like
+hunting, offroading, and backpacking.
 
