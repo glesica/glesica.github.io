@@ -8,13 +8,18 @@ CUSTOM=custom.css
 
 # Check for build dependencies
 
-if ! wget --version 2>&1 >/dev/null ; then
+if ! wget --help 2>/dev/null >/dev/null ; then
     echo "wget is not installed"
     exit 1
 fi
 
-if ! pandoc --version 2>&1 >/dev/null ; then
+if ! pandoc --version 2>/dev/null >/dev/null ; then
     echo "pandoc is not installed"
+    exit 1
+fi
+
+if ! tsc --help 2>/dev/null >/dev/null ; then
+    echo "typescript is not installed"
     exit 1
 fi
 
