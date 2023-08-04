@@ -146,7 +146,7 @@ prevention resources.
 **DCDG** - a tool that can generate a class diagram from a Dart source code
 package. [GitHub](https://github.com/glesica/dcdg.dart)
 
-**121 Cribbage** - a simple Cribbage board app for iOS. [App Store](https://apps.apple.com/us/app/121-cribbage/id1630557107)
+**121 Cribbage** - a simple [Cribbage board app](121-cribbage/) for iOS. [App Store](https://apps.apple.com/us/app/121-cribbage/id1630557107)
 
 ## Files and Such
 
