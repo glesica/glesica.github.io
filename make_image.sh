@@ -1,4 +1,4 @@
 #!/bin/sh
 
-docker build -t lesica_builder .
+podman build -t lesica_builder .
 

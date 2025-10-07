@@ -1,6 +1,6 @@
 #!/bin/sh
 
-docker run \
+podman run \
     --rm \
     --volume "`pwd`:/data" \
     --user `id -u`:`id -g` \
