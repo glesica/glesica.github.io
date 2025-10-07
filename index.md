@@ -9,16 +9,11 @@ fancy programming languages.
   - [Email](mailto:george@lesica.com)
   - [GitHub](https://github.com/glesica)
   - [Instagram](https://www.instagram.com/georgelesica)
-  - [Keybase](https://keybase.io/glesica)
   - [LinkedIn](https://www.linkedin.com/in/george-lesica)
 
-I also have a page of interesting [quotes](quotes.html). Well, interesting to
-me, anyway.
+I also have a page of interesting [quotations](quotes.html).
 
 ![Trying to keep warm on a mountain](cold-lookout.jpg)
-
-Also, I finally got around to putting my collection of old / vintage / retro
-[computers](computers.html) and computing hardware online!
 
 Feel free to reach out via email or LinkedIn if you want to talk. I especially
 enjoy helping young people get started in the software industry. I have acted as
@@ -51,8 +46,7 @@ development track. I enjoy the opportunity to help students get started on a new
 career in the software industry, and it's just a lot of fun.
 
 **Founder and Principal, Georgica Software, LLC** - I periodically take on
-consulting projects. If you'd like to discuss a project, take a look at my
-[business web site](https://georgica.io) or just send me an
+consulting projects. If you'd like to discuss a project, shoot me an
 [email](mailto:george@lesica.com).
 
 **Pro bono Technology Advisor, Tamarack Grief Resource Center** - I provide
@@ -68,7 +62,7 @@ in the online
 software reliability and testing, including some less obvious subjects like
 static analysis and type systems. I used the open source
 [textbook](https://github.com/laboon/ebook) written by Bill Laboon at CMU, along
-with assorted other readings. Currently, I'm planning to deliver an updated,
+with assorted other readings. I taught an updated,
 400-level version of the course for spring 2021.
 
 **Instructor, Special Topics - The Missing Course (Spring 2021)** - With help
@@ -94,14 +88,6 @@ on issues and problems that are important to Montanans.
 We created a system to extract and filter IRS data is called PyRS990 (get it?).
 It has now been packaged and can be found on PyPI, although is should still be
 considered alpha software: [PyRS990](https://pypi.org/project/pyrs990/).
-
-There is also a project to make it easier for journalists and others with a
-small amount of both time and programming ability to collect public datasets
-from the internet, called [Mt. Data](https://github.com/glesica/mtdata).
-
-We are also involved in an ongoing project to improve the technical literacy of
-staff at local non-profits through personalized training and consultation
-provided by tech industry volunteers.
 
 ![Code for Montana](code-for-montana.jpg)
 
@@ -168,8 +154,3 @@ our lab about making software easy for people to use.
 gave to the spring 2020 senior capstone class about some of the techniques we
 can use to make software less terrible.
 
-## Day Job
-
-I work as a backend developer for onXmaps Inc., a software company based in
-Missoula, MT that makes mapping and navigation tools for outdoor activities like
-hunting, offroading, and backpacking.

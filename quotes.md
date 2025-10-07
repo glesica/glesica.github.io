@@ -4,12 +4,7 @@ various reasons). I had a web page like this back in college and I looked for
 the files, but alas, they have been lost to the sands of time and my own
 carelessness.
 
-I'm going to try to stick to quotes that are off the beaten path. So no Ben
-Franklin on liberty, Oppenheimer on the atomic bomb, or Kennedy on the arts.
-This has the added benefit of making the page a bit shorter and easier to
-update.
-
-I'm also going to try to keep the software development and computer science
+I'm going to try to keep the software development and computer science
 quotes to a reasonable number, but we'll see how that goes.
 
   > "Programs must be written for people to read, and only incidentally
